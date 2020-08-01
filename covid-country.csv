@@ -1,4 +1,4 @@
-date,location,new_cases,new_deaths,total_cases,total_deaths,mortality,OlderPopulation,healthspend,gdpercapita_ppp,gini
+date,location,new_cases,new_deaths,total_cases,total_deaths,mortality,OlderPopulation,healthspend,percapitagdp,gini
 30/7/2020,United States,74985,1457,4426982,150713,3.4,15.4193659,10246.13867,62886.83648,41.4
 30/7/2020,Brazil,69074,1595,2552265,90134,3.5,8.605491994,1472.230957,14951.80351,53.3
 30/7/2020,India,52123,775,1583792,34968,2.2,5.983113317,253.3224182,6697.157798,0
