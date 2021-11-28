@@ -1,5 +1,5 @@
 Location,Partialvaccine_count,Partialvaccine_percent,FullyVaccinated_count,Fullyvaccinated_percent,Totalcases,TotalDeaths,Fatality_Rate
-United States,230732565,69.50%,196398948,59.20%,47938269,773021,1.60%
+United States,230732565,69.50%,196398948,59.20,47938269,773021,1.60
 Alabama,2745330,56.00%,2245543,45.80%,843780,16086,1.90%
 Alaska,452900,61.90%,394157,53.90%,148825,862,0.60%
 Arizona,4629057,63.60%,3956455,54.40%,1245127,21942,1.80%
