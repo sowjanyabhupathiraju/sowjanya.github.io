@@ -1,4 +1,4 @@
-Location,Partialvaccine_count,Partialvaccine_percent,FullyVaccinated_count,Fullyvaccinated_percent,Totalcases,TotalDeaths,Fatality_Rate,Population ,Death per 100K Population
+Location,Partialvaccine_count,Partialvaccine_percent,FullyVaccinated_count,Fullyvaccinated_percent,Totalcases,TotalDeaths,Fatality_Rate,Population ,Death_100K_Population
 Alabama,2745330,56,2245543,45.8,843780,16086,1.9,4908621,327.71
 Alaska,452900,61.9,394157,53.9,148825,862,0.6,734002,117.44
 Arizona,4629057,63.6,3956455,54.4,1245127,21942,1.8,7378494,297.38
